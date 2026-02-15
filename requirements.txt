@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+python-dotenv
+pandas
+sqlalchemy
+pymysql
+psycopg2
+sqlalchemy
+psycopg2-binary

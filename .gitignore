@@ -1,0 +1,4 @@
+venv/
+.gitenv
+.env
+__pycache__/
